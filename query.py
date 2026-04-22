@@ -38,16 +38,13 @@ cache_session = requests_cache.CachedSession(".cache", expire_after=3600)
 retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
 openmeteo = openmeteo_requests.Client(session=retry_session)
 
-
-# f"{location['latitude']}, {location['longitude']} ({location['name']}),\n"
-
 with open("README.md","w") as f:  
-    print(f"Text recommendations will contain rideable periods in the upcoming {forecast_days}."
+    print(f"Text recommendations will contain rideable periods in the upcoming {forecast_days} days. "
         "'Rideable' means\n"
         f"at least {consecutive_hours} consecutive daytime hours with:\n"
-        f"-- At least {min_wind}kts sustained wind\n"
-        f"-- At least {min_temp}F air temp\n"
-        f"-- At most {max_rain}in precipitation\n", file=f)
+        f"- At least {min_wind}kts sustained wind\n"
+        f"- At least {min_temp}F air temp\n"
+        f"- At most {max_rain}in precipitation\n", file=f)
     
     for location in locations:
         # Make sure all required weather variables are listed here
@@ -130,20 +127,16 @@ with open("README.md","w") as f:
                 windy_hours = 0
 
         imname = f"{location['name']}.png"
+
+        print(f" # Forecast at {location['latitude']}, {location['longitude']} ({location['name']})", file=f)
         
-        print(f"![]({imname})", file=f)
-        print(file=f)
-        print(file=f)
+        print(f"![Forecast at {location['latitude']}, {location['longitude']} ({location['name']})]({imname})", file=f)
         if len(windy_periods) == 0:
             print("No rideable periods found :(", file=f)
         else:
             print("Rideable periods:\n", file=f)
             for windy_period in windy_periods:
-                print(f"{windy_period[0].date()} from {windy_period[0].hour}:00 to {windy_period[1].hour}:00", file=f)
-        print(file=f)
-        print(file=f)
-        print(file=f)
-        print(file=f)
+                print(f" - {windy_period[0].date()} from {windy_period[0].hour}:00 to {windy_period[1].hour}:00", file=f)
 
         plt.figure(figsize=(16, 10))
 
