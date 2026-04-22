@@ -39,6 +39,7 @@ retry_session = retry(cache_session, retries=5, backoff_factor=0.2)
 openmeteo = openmeteo_requests.Client(session=retry_session)
 
 with open("README.md","w") as f:  
+    print("All times in Minneapolis time")
     print(f"Text recommendations will contain rideable periods in the upcoming {forecast_days} days. "
         "'Rideable' means\n"
         f"at least {consecutive_hours} consecutive daytime hours with:\n"
