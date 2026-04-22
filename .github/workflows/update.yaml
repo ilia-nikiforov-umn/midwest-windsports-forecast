@@ -19,7 +19,7 @@ jobs:
               run: pip install retry-requests
             - name: run-and-push
               run: |
-                echo "${{ secrets.ACCESS_TOKEN }}" > token.txt
+                echo "${{ secrets.GITHUB_TOKEN }}" > token.txt
                 gh auth login --with-token < token.txt
                 gh auth setup-git
                 python query.py
