@@ -4,7 +4,7 @@ at least 2 consecutive daytime hours with:
 -- At least 50F air temp
 -- At most 0.01in precipitation
 
-!(Waconia.png)
+![](Waconia.png)
 
 
 Rideable periods:
@@ -17,7 +17,7 @@ Rideable periods:
 
 
 
-!(White_Bear_Lake.png)
+![](White_Bear_Lake.png)
 
 
 Rideable periods:
@@ -28,7 +28,7 @@ Rideable periods:
 
 
 
-!(Mille_Lacs_Reddy.png)
+![](Mille_Lacs_Reddy.png)
 
 
 Rideable periods:
@@ -39,7 +39,7 @@ Rideable periods:
 
 
 
-!(Lake_Washington.png)
+![](Lake_Washington.png)
 
 
 Rideable periods:
@@ -51,7 +51,7 @@ Rideable periods:
 
 
 
-!(Medicine_Lake.png)
+![](Medicine_Lake.png)
 
 
 Rideable periods:
@@ -62,7 +62,7 @@ Rideable periods:
 
 
 
-!(Lake_Pepin.png)
+![](Lake_Pepin.png)
 
 
 Rideable periods:
@@ -74,7 +74,7 @@ Rideable periods:
 
 
 
-!(Byllesby.png)
+![](Byllesby.png)
 
 
 Rideable periods:
@@ -88,7 +88,7 @@ Rideable periods:
 
 
 
-!(Cannon.png)
+![](Cannon.png)
 
 
 Rideable periods:
@@ -102,7 +102,7 @@ Rideable periods:
 
 
 
-!(Clear_Lake_IA.png)
+![](Clear_Lake_IA.png)
 
 
 Rideable periods:
@@ -114,7 +114,7 @@ Rideable periods:
 
 
 
-!(Spirit_Lake_IA.png)
+![](Spirit_Lake_IA.png)
 
 
 Rideable periods:
