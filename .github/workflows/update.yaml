@@ -16,8 +16,10 @@ jobs:
                 create-args: >-
                   -f environment.yml
             - name: Install retry-requests
-              run: pip install retry-requests
+              shell: bash -el {0}
+              run: mython -m pip install retry-requests
             - name: run-and-push
+              shell: bash -el {0}
               run: |
                 echo "${{ secrets.GITHUB_TOKEN }}" > token.txt
                 gh auth login --with-token < token.txt
