@@ -17,7 +17,7 @@ Rideable periods:
 Rideable periods:
 
  - 2026-04-22 from 16:00 to 19:00
- - 2026-04-23 from 8:00 to 12:00
+ - 2026-04-23 from 9:00 to 12:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png)
 Rideable periods:
@@ -36,8 +36,8 @@ Rideable periods:
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png)
 Rideable periods:
 
- - 2026-04-22 from 16:00 to 19:00
- - 2026-04-23 from 9:00 to 11:00
+ - 2026-04-22 from 17:00 to 19:00
+ - 2026-04-23 from 8:00 to 10:00
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png)
 Rideable periods:
