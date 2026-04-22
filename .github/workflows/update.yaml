@@ -17,7 +17,7 @@ jobs:
                   -f environment.yml
             - name: Install retry-requests
               shell: bash -el {0}
-              run: mython -m pip install retry-requests
+              run: python -m pip install retry-requests
             - name: run-and-push
               shell: bash -el {0}
               run: |
