@@ -24,6 +24,11 @@ jobs:
                 echo "${{ secrets.GITHUB_TOKEN }}" > token.txt
                 gh auth login --with-token < token.txt
                 gh auth setup-git
+                
+                # Setup the committers identity.
+                git config user.email "nikif002@gmail.com"
+                git config user.name "ilia's robot"
+
                 python query.py
                 git commit -am "update"
                 git push
