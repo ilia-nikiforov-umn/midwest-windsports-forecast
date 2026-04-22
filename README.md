@@ -1,3 +1,4 @@
+All times in Minneapolis time
 Text recommendations will contain rideable periods in the upcoming 4 days. 'Rideable' means
 at least 2 consecutive daytime hours with:
 - At least 13kts sustained wind
