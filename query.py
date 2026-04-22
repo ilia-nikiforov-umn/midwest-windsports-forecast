@@ -131,7 +131,7 @@ with open("README.md","w") as f:
 
         imname = f"{location['name']}.png"
         
-        print(f"!({imname})", file=f)
+        print(f"![]({imname})", file=f)
         print(file=f)
         print(file=f)
         if len(windy_periods) == 0:
