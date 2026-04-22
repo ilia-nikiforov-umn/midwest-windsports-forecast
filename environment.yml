@@ -1,0 +1,9 @@
+name: openmeteo-env
+channels:
+  - conda-forge
+dependencies:
+  - openmeteo_requests
+  - requests-cache
+  - numpy
+  - pandas
+  - matplotlib

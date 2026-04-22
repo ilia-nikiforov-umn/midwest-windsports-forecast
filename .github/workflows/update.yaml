@@ -1,0 +1,27 @@
+on:
+    workflow_dispatch
+
+jobs:
+    update:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: checkout
+              uses: actions/checkout@v4
+            - name: Set up micromamba
+              uses: mamba-org/setup-micromamba@v1.9.0
+              with:
+                environment-name: openmeteo
+                cache-environment: true
+                create-args: >-
+                  -f environment.yml
+            - name: Install retry-requests
+              run: pip install retry-requests
+            - name: run-and-push
+              run: |
+                echo "${{ secrets.ACCESS_TOKEN }}" > token.txt
+                gh auth login --with-token < token.txt
+                gh auth setup-git
+                python query.py
+                git commit -am "update"
+                git push
