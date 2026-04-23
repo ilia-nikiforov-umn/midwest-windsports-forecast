@@ -11,12 +11,13 @@ from math import radians, sin, cos
 locations = [
     {"latitude": 44.87, "longitude": -93.76, "name": "Waconia"},
     {"latitude": 45.09, "longitude": -92.99, "name": "White_Bear_Lake"},
+    {"latitude": 44.27, "longitude": -93.35, "name": "Cannon"},
     {"latitude": 46.36, "longitude": -93.59, "name": "Mille_Lacs_Reddy"},
-    {"latitude": 45.07, "longitude": -94.35, "name": "Lake_Washington"},
-    {"latitude": 45.01, "longitude": -93.43, "name": "Medicine_Lake"},
     {"latitude": 44.49, "longitude": -92.29, "name": "Lake_Pepin"},
     {"latitude": 44.51, "longitude": -92.96, "name": "Byllesby"},
-    {"latitude": 44.27, "longitude": -93.35, "name": "Cannon"},
+    {"latitude": 46.73, "longitude": -92.04, "name": "Park_Point"},    
+    {"latitude": 45.07, "longitude": -94.35, "name": "Lake_Washington"},
+    {"latitude": 45.01, "longitude": -93.43, "name": "Medicine_Lake"},
     {"latitude": 43.13, "longitude": -93.40, "name": "Clear_Lake_IA"},
     {"latitude": 43.48, "longitude": -95.10, "name": "Spirit_Lake_IA"},
     
