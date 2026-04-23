@@ -13,6 +13,7 @@ locations = [
     {"latitude": 45.09, "longitude": -92.99, "name": "White_Bear_Lake"},
     {"latitude": 44.27, "longitude": -93.35, "name": "Cannon"},
     {"latitude": 46.36, "longitude": -93.59, "name": "Mille_Lacs_Reddy"},
+    {"latitude": 46.15, "longitude": -93.50, "name": "Mille_Lacs_Father_Hennepin"},
     {"latitude": 44.49, "longitude": -92.29, "name": "Lake_Pepin"},
     {"latitude": 44.51, "longitude": -92.96, "name": "Byllesby"},
     {"latitude": 46.73, "longitude": -92.04, "name": "Park_Point"},    
