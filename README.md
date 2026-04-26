@@ -13,21 +13,24 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-04-27 from 17:00 to 19:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png)
 No rideable periods found :(
  # Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)
 ![Forecast at 46.15, -93.5 (Mille_Lacs_Father_Hennepin)](Mille_Lacs_Father_Hennepin.png)
-Rideable periods:
-
- - 2026-04-27 from 9:00 to 11:00
+No rideable periods found :(
  # Forecast at 44.49, -92.29 (Lake_Pepin)
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png)
 No rideable periods found :(
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-04-27 from 8:00 to 13:00
+ - 2026-04-27 from 15:00 to 21:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png)
 No rideable periods found :(
@@ -36,7 +39,6 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-04-26 from 16:00 to 21:00
- - 2026-04-27 from 18:00 to 20:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png)
 No rideable periods found :(
@@ -45,8 +47,10 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-04-26 from 16:00 to 19:00
- - 2026-04-27 from 8:00 to 11:00
- - 2026-04-27 from 18:00 to 21:00
+ - 2026-04-27 from 7:00 to 9:00
+ - 2026-04-27 from 14:00 to 20:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-04-26 from 18:00 to 20:00
