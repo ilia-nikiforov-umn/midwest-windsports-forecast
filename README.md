@@ -44,7 +44,7 @@ No rideable periods found :(
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png)
 Rideable periods:
 
- - 2026-04-26 from 16:00 to 19:00
+ - 2026-04-26 from 16:00 to 20:00
  - 2026-04-27 from 8:00 to 11:00
  - 2026-04-27 from 18:00 to 21:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
