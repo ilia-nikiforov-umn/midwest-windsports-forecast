@@ -9,7 +9,7 @@ at least 2 consecutive daytime hours with:
 ![Forecast at 44.87, -93.76 (Waconia)](Waconia.png)
 Rideable periods:
 
- - 2026-04-27 from 18:00 to 20:00
+ - 2026-04-27 from 17:00 to 19:00
  # Forecast at 45.09, -92.99 (White_Bear_Lake)
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png)
 No rideable periods found :(
@@ -17,7 +17,7 @@ No rideable periods found :(
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png)
 Rideable periods:
 
- - 2026-04-27 from 16:00 to 20:00
+ - 2026-04-27 from 16:00 to 19:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png)
 No rideable periods found :(
@@ -28,14 +28,13 @@ No rideable periods found :(
 ![Forecast at 44.49, -92.29 (Lake_Pepin)](Lake_Pepin.png)
 Rideable periods:
 
- - 2026-04-27 from 18:00 to 21:00
- - 2026-04-28 from 12:00 to 17:00
+ - 2026-04-27 from 19:00 to 21:00
+ - 2026-04-28 from 13:00 to 19:00
  # Forecast at 44.51, -92.96 (Byllesby)
 ![Forecast at 44.51, -92.96 (Byllesby)](Byllesby.png)
 Rideable periods:
 
- - 2026-04-27 from 17:00 to 21:00
- - 2026-04-28 from 14:00 to 17:00
+ - 2026-04-27 from 17:00 to 20:00
  # Forecast at 46.73, -92.04 (Park_Point)
 ![Forecast at 46.73, -92.04 (Park_Point)](Park_Point.png)
 No rideable periods found :(
@@ -49,9 +48,9 @@ No rideable periods found :(
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png)
 Rideable periods:
 
- - 2026-04-27 from 15:00 to 20:00
+ - 2026-04-27 from 16:00 to 19:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png)
 Rideable periods:
 
- - 2026-04-27 from 12:00 to 16:00
+ - 2026-04-27 from 13:00 to 15:00
