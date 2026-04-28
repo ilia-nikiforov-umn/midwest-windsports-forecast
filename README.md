@@ -13,9 +13,7 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png)
-Rideable periods:
-
- - 2026-04-28 from 16:00 to 18:00
+No rideable periods found :(
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png)
 No rideable periods found :(
@@ -33,7 +31,9 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 45.07, -94.35 (Lake_Washington)
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-04-28 from 15:00 to 18:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png)
 No rideable periods found :(
