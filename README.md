@@ -33,7 +33,7 @@ No rideable periods found :(
 ![Forecast at 45.07, -94.35 (Lake_Washington)](Lake_Washington.png)
 Rideable periods:
 
- - 2026-04-28 from 15:00 to 18:00
+ - 2026-04-28 from 15:00 to 17:00
  # Forecast at 45.01, -93.43 (Medicine_Lake)
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png)
 No rideable periods found :(
