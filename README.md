@@ -13,7 +13,9 @@ No rideable periods found :(
 No rideable periods found :(
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png)
-No rideable periods found :(
+Rideable periods:
+
+ - 2026-04-30 from 15:00 to 17:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png)
 No rideable periods found :(
