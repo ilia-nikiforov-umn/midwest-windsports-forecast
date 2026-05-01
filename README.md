@@ -60,6 +60,5 @@ Rideable periods:
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png)
 Rideable periods:
 
- - 2026-05-02 from 15:00 to 18:00
  - 2026-05-03 from 9:00 to 12:00
  - 2026-05-04 from 9:00 to 20:00
