@@ -15,7 +15,7 @@ No rideable periods found :(
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png)
 Rideable periods:
 
- - 2026-04-30 from 14:00 to 17:00
+ - 2026-04-30 from 14:00 to 18:00
  # Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png)
 No rideable periods found :(
@@ -42,7 +42,7 @@ No rideable periods found :(
 Rideable periods:
 
  - 2026-04-30 from 14:00 to 19:00
- - 2026-05-03 from 9:00 to 11:00
+ - 2026-05-03 from 7:00 to 11:00
  # Forecast at 43.48, -95.1 (Spirit_Lake_IA)
 ![Forecast at 43.48, -95.1 (Spirit_Lake_IA)](Spirit_Lake_IA.png)
 No rideable periods found :(
