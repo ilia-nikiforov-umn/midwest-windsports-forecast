@@ -28,6 +28,7 @@ Rideable periods:
 ![Forecast at 46.36, -93.59 (Mille_Lacs_Reddy)](Mille_Lacs_Reddy.png)
 Rideable periods:
 
+ - 2026-05-02 from 15:00 to 17:00
  - 2026-05-03 from 9:00 to 14:00
  - 2026-05-04 from 8:00 to 11:00
  - 2026-05-04 from 12:00 to 14:00
