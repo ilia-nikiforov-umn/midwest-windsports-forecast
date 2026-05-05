@@ -14,7 +14,7 @@ Rideable periods:
 ![Forecast at 45.09, -92.99 (White_Bear_Lake)](White_Bear_Lake.png)
 Rideable periods:
 
- - 2026-05-04 from 11:00 to 20:00
+ - 2026-05-04 from 11:00 to 19:00
  # Forecast at 44.27, -93.35 (Cannon)
 ![Forecast at 44.27, -93.35 (Cannon)](Cannon.png)
 Rideable periods:
@@ -54,7 +54,7 @@ Rideable periods:
 ![Forecast at 45.01, -93.43 (Medicine_Lake)](Medicine_Lake.png)
 Rideable periods:
 
- - 2026-05-04 from 9:00 to 20:00
+ - 2026-05-04 from 9:00 to 19:00
  # Forecast at 43.13, -93.4 (Clear_Lake_IA)
 ![Forecast at 43.13, -93.4 (Clear_Lake_IA)](Clear_Lake_IA.png)
 Rideable periods:
